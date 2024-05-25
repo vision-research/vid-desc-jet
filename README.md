@@ -66,14 +66,16 @@ then put them in feature folder inside data/MSVD folder
 
 
 # Results
+
+Video description:
 ![r1](https://github.com/vision-research/vid-desc-jet/assets/169878400/ee25b43f-4a4b-4243-aabb-4df8b3a08488)
 
 
-Video description
 
 
+Object detection: a) yolov7-tiny  b) yolov7-W6:
 ![r2](https://github.com/vision-research/vid-desc-jet/assets/169878400/3ff6cf69-d4a3-4f30-bce6-8bd4ae2f1657)
-Object detection: a) yolov7-tiny  b) yolov7-W6
+
 
     
 ## Acknowledgements
