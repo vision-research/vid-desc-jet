@@ -50,27 +50,29 @@ https://cocodataset.org/#download
 ```bash
   python training_vid_cap.py
 ```
-or use the trained model in the checkpoints folder
-
+or use the trained model from this link: https://drive.google.com/drive/folders/1fm5rXDiMiPJhwdxjwihKtCiZlH1uBe0m?usp=sharing
+then put the file in checkpoints folder  
 ### For feature extraction run   
 
 ```bash
   python Swin_feat_extraction.py
   python EffeB3_feat_extraction.py
 ```
+or use extracted features from this link: https://drive.google.com/drive/folders/1IGZPW_e8MRQLG8qHlLiTf22sOvo8ssJd?usp=sharing
+then put them in feature folder inside data/MSVD folder
 # Hardware components
 
-
+![h1](https://github.com/vision-research/vid-desc-jet/assets/169878400/d1d70e2a-85b3-46d8-92d3-6611ef7f7469)
 
 
 # Results
-
+![r1](https://github.com/vision-research/vid-desc-jet/assets/169878400/ee25b43f-4a4b-4243-aabb-4df8b3a08488)
 
 
 Video description
 
 
-
+![r2](https://github.com/vision-research/vid-desc-jet/assets/169878400/3ff6cf69-d4a3-4f30-bce6-8bd4ae2f1657)
 Object detection: a) yolov7-tiny  b) yolov7-W6
 
     
