@@ -88,6 +88,5 @@ Object detection: a) yolov7-tiny  b) yolov7-W6:
 - https://github.com/rhasspy/piper
 - https://alphacephei.com/vosk/
 
-Some code in this project is based on the following repositories:
-- https://github.com/hobincar/RecNet
+
 
